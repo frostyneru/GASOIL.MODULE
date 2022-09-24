@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OxyPlot.Core.Drawing</name>
+    </assembly>
+    <members>
+        <member name="T:OxyPlot.Core.Drawing.GraphicsRenderContext">
+            <summary>
+            The graphics render context.
+            </summary>
+        </member>
+        <member name="F:OxyPlot.Core.Drawing.GraphicsRenderContext.FontsizeFactor">
+            <summary>
+            The font size factor.
+            </summary>
+        </member>
+        <member name="F:OxyPlot.Core.Drawing.GraphicsRenderContext.g">
+            <summary>
+            The GDI+ drawing surface.
+            </summary>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.#ctor(System.Drawing.Graphics)">
+            <summary>
+            Initializes a new instance of the <see cref="T:OxyPlot.Core.Drawing.GraphicsRenderContext"/> class.
+            </summary>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.SetGraphicsTarget(System.Drawing.Graphics)">
+            <summary>
+            Sets the graphics target.
+            </summary>
+            <param name="graphics">The graphics surface.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.DrawEllipse(OxyPlot.OxyRect,OxyPlot.OxyColor,OxyPlot.OxyColor,System.Double)">
+            <summary>
+            Draws an ellipse.
+            </summary>
+            <param name="rect">The rectangle.</param>
+            <param name="fill">The fill color.</param>
+            <param name="stroke">The stroke color.</param>
+            <param name="thickness">The thickness.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.DrawLine(System.Collections.Generic.IList{OxyPlot.ScreenPoint},OxyPlot.OxyColor,System.Double,System.Double[],OxyPlot.LineJoin,System.Boolean)">
+            <summary>
+            Draws the polyline from the specified points.
+            </summary>
+            <param name="points">The points.</param>
+            <param name="stroke">The stroke color.</param>
+            <param name="thickness">The stroke thickness.</param>
+            <param name="dashArray">The dash array.</param>
+            <param name="lineJoin">The line join type.</param>
+            <param name="aliased">if set to <c>true</c> the shape will be aliased.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.DrawPolygon(System.Collections.Generic.IList{OxyPlot.ScreenPoint},OxyPlot.OxyColor,OxyPlot.OxyColor,System.Double,System.Double[],OxyPlot.LineJoin,System.Boolean)">
+            <summary>
+            Draws the polygon from the specified points. The polygon can have stroke and/or fill.
+            </summary>
+            <param name="points">The points.</param>
+            <param name="fill">The fill color.</param>
+            <param name="stroke">The stroke color.</param>
+            <param name="thickness">The stroke thickness.</param>
+            <param name="dashArray">The dash array.</param>
+            <param name="lineJoin">The line join type.</param>
+            <param name="aliased">if set to <c>true</c> the shape will be aliased.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.DrawRectangle(OxyPlot.OxyRect,OxyPlot.OxyColor,OxyPlot.OxyColor,System.Double)">
+            <summary>
+            Draws the rectangle.
+            </summary>
+            <param name="rect">The rectangle.</param>
+            <param name="fill">The fill color.</param>
+            <param name="stroke">The stroke color.</param>
+            <param name="thickness">The stroke thickness.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.DrawText(OxyPlot.ScreenPoint,System.String,OxyPlot.OxyColor,System.String,System.Double,System.Double,System.Double,OxyPlot.HorizontalAlignment,OxyPlot.VerticalAlignment,System.Nullable{OxyPlot.OxySize})">
+            <summary>
+            Draws the text.
+            </summary>
+            <param name="p">The p.</param>
+            <param name="text">The text.</param>
+            <param name="fill">The fill color.</param>
+            <param name="fontFamily">The font family.</param>
+            <param name="fontSize">Size of the font.</param>
+            <param name="fontWeight">The font weight.</param>
+            <param name="rotate">The rotation angle.</param>
+            <param name="halign">The horizontal alignment.</param>
+            <param name="valign">The vertical alignment.</param>
+            <param name="maxSize">The maximum size of the text.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.MeasureText(System.String,System.String,System.Double,System.Double)">
+            <summary>
+            Measures the text.
+            </summary>
+            <param name="text">The text.</param>
+            <param name="fontFamily">The font family.</param>
+            <param name="fontSize">Size of the font.</param>
+            <param name="fontWeight">The font weight.</param>
+            <returns>The text size.</returns>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.ToFloatArray(System.Double[])">
+            <summary>
+            Converts a double array to a float array.
+            </summary>
+            <param name="a">
+            The a.
+            </param>
+            <returns>
+            The float array.
+            </returns>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.GraphicsRenderContext.ToPoints(System.Collections.Generic.IList{OxyPlot.ScreenPoint})">
+            <summary>
+            Converts a list of point to an array of PointF.
+            </summary>
+            <param name="points">
+            The points.
+            </param>
+            <returns>
+            An array of points.
+            </returns>
+        </member>
+        <member name="T:OxyPlot.Core.Drawing.OxyPlotExtensions">
+            <summary>
+            Implements extension methods coverting to/from OxyPlot data structures.
+            </summary>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.OxyPlotExtensions.ToRect(OxyPlot.OxyRect)">
+            <summary>
+            Converts an <see cref="T:OxyPlot.OxyRect"/> to a <see cref="T:System.Drawing.Rectangle"/>.
+            </summary>
+            <param name="r">
+            The rectangle.
+            </param>
+            <returns>
+            The converted rectangle.
+            </returns>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.OxyPlotExtensions.ToBrush(OxyPlot.OxyColor)">
+            <summary>
+            Converts a color to a Brush.
+            </summary>
+            <param name="c">
+            The color.
+            </param>
+            <returns>
+            A SolidColorBrush.
+            </returns>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.OxyPlotExtensions.ToColor(OxyPlot.OxyColor)">
+            <summary>
+            Converts an OxyColor to a Color.
+            </summary>
+            <param name="c">
+            The color.
+            </param>
+            <returns>
+            A Color.
+            </returns>
+        </member>
+        <member name="T:OxyPlot.Core.Drawing.PngExporter">
+            <summary>
+            Provides functionality to export plots to png.
+            </summary>
+        </member>
+        <member name="P:OxyPlot.Core.Drawing.PngExporter.Width">
+            <summary>
+            Gets or sets the width in pixels of the exported png.
+            </summary>
+        </member>
+        <member name="P:OxyPlot.Core.Drawing.PngExporter.Height">
+            <summary>
+            Gets or sets the height in pixels of the exported png.
+            </summary>
+        </member>
+        <member name="P:OxyPlot.Core.Drawing.PngExporter.Background">
+            <summary>
+            Gets or sets the background color of the exported png.
+            </summary>
+        </member>
+        <member name="P:OxyPlot.Core.Drawing.PngExporter.Resolution">
+            <summary>
+            Gets or sets the resolution in dpi of the exported png.
+            </summary>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.PngExporter.Export(OxyPlot.IPlotModel,System.String,System.Int32,System.Int32,OxyPlot.OxyColor,System.Double)">
+            <summary>
+            Exports the specified <see cref="T:OxyPlot.PlotModel" /> to the specified file.
+            </summary>
+            <param name="model">The model.</param>
+            <param name="fileName">The file name.</param>
+            <param name="width">The width.</param>
+            <param name="height">The height.</param>
+            <param name="background">The background color.</param>
+            <param name="resolution">The resolution in dpi (defaults to 96dpi).</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.PngExporter.Export(OxyPlot.IPlotModel,System.IO.Stream)">
+            <summary>
+            Exports the specified <see cref="T:OxyPlot.PlotModel"/> to the specified <see cref="T:System.IO.Stream"/>.
+            </summary>
+            <param name="model">The model.</param>
+            <param name="stream">The output stream.</param>
+        </member>
+        <member name="M:OxyPlot.Core.Drawing.PngExporter.ExportToBitmap(OxyPlot.IPlotModel)">
+            <summary>
+            Exports the specified <see cref="T:OxyPlot.PlotModel" /> to a <see cref="T:System.Drawing.Bitmap" />.
+            </summary>
+            <param name="model">The model to export.</param>
+            <returns>A <see cref="T:System.Drawing.Bitmap"/>.</returns>
+        </member>
+    </members>
+</doc>

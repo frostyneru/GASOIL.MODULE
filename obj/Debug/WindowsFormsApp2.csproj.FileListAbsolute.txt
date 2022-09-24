@@ -1,0 +1,73 @@
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.dll
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.xml
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Иван\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Иван\source\repos\WindowsFormsApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.dll
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.xml
+C:\Users\СНО\Desktop\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\СНО\Desktop\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.dll
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.xml
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\СНО\Desktop\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.dll
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\System.Drawing.Common.dll
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.Core.Drawing.xml
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Иван\Desktop\Наука\Научная работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
